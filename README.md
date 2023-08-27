@@ -234,7 +234,7 @@ conda deactivate
 
 Example data are given in `./sample_data`.
 
-The DeepGEM source code, the training and test data, as well as the trained DeepGEM models, are also available on Zenodo at:XXX, or WeDrive at: https://drive.weixin.qq.com/s?k=AJEAIQdfAAonaLtya5.
+The DeepGEM source code, the training and test data, as well as the trained DeepGEM models, are also available on [Zenodo](https://zenodo.org/record/8286746), or [WeDrive](https://drive.weixin.qq.com/s?k=AJEAIQdfAAo10VtGUn).
 
 # Disclaimer
 This tool is for research purpose and not approved for clinical use.
