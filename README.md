@@ -102,7 +102,7 @@ This code uses the centralized configs. Before using this code, a config file ne
 docker pull soonera/deepgem:latest
 ```
 ### 2-Use docker file `deepgem.tar`.（optional)
-The docker image file can be found at [WeDrive](https://drive.weixin.qq.com/s?k=AJEAIQdfAAoYCMSAfY)
+The docker image file can be found at [WeDrive](https://drive.weixin.qq.com/s?k=AJEAIQdfAAoor72Uij)
 + Add docker image by loading the docker file:
 ```
 docker load < deepgem.tar
@@ -119,6 +119,8 @@ docker run --name deepgem --gpus '"device=0"' -it --rm  deepgem:latest /bin/bash
 ```
 + Test directly because all files are contained in this docker image:
 ```
+    # Run commands in the folder `./DeepGEM`:
+    
     cd DeepGEM
 
     # Sample Dataset
